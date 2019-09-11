@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGlobal.OutlookAddInBPMONLine.Core", "BGlobal.OutlookAddInBPMONLine.Core\BGlobal.OutlookAddInBPMONLine.Core.csproj", "{8DEA8731-E61A-4763-83E1-FB8A7275ABDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGlobal.OutlookAddInBPMOnline.WFrmBPMOnline", "BGlobal.OutlookAddInBPMOnline.WFrmBPMOnline\BGlobal.OutlookAddInBPMOnline.WFrmBPMOnline.csproj", "{6CEB2E96-72EC-41FE-8C39-6D5F870A40F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEA8731-E61A-4763-83E1-FB8A7275ABDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEA8731-E61A-4763-83E1-FB8A7275ABDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEA8731-E61A-4763-83E1-FB8A7275ABDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEA8731-E61A-4763-83E1-FB8A7275ABDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEB2E96-72EC-41FE-8C39-6D5F870A40F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEB2E96-72EC-41FE-8C39-6D5F870A40F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEB2E96-72EC-41FE-8C39-6D5F870A40F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEB2E96-72EC-41FE-8C39-6D5F870A40F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803F956A-507E-4D48-B93F-7F34EDFF1942}
+	EndGlobalSection
+EndGlobal
